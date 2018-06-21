@@ -1,0 +1,4 @@
+"Story","Title","Result","Date","Stability","Duration (s)"
+"Items acceptance BDD","Test ABCD","SUCCESS","2018-06-20T20:21:47.343-04:00[America/New_York]","0.0","12.58"
+"Items acceptance BDD","Test CCCCCCC","SUCCESS","2018-06-20T20:22:00.129-04:00[America/New_York]","0.0","0.55"
+"Items acceptance BDD","Test ABCDABA","SUCCESS","2018-06-20T20:22:00.7-04:00[America/New_York]","0.0","0.38"
